@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Linear-Layout</string>
+    <string name="name">Sara Salah Ahmed</string>
+    <string name="position"> Software Engineer</string>
+    <string name="nationality">Egyptian</string>
+    <string name="hours">3 hr</string>
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="margin">12dp</dimen>
+    <dimen name="title">16sp</dimen>
+    <dimen name="body">12sp</dimen>
+    <dimen name="eightPadding">8dp</dimen>
+    <dimen name="fourPadding">4dp</dimen>
+</resources>
